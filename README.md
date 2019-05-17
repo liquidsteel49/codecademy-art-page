@@ -2,4 +2,4 @@ This is the website that I am building for practice following CodeCademy's instr
 
 Here are the specs:
 
-![]specs.png
+![specifications](img/specs.png)
