@@ -1,3 +1,22 @@
+h2 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.brushes-banner {
+    background-color: mediumspringgreen;
+}
+
+.frames-banner {
+    background-color: lightcoral;
+}
+
+.paint-banner {
+    background-color: skyblue;
+}
+
 .price {
     font-family: Helvetica;
     font-weight: bold;
